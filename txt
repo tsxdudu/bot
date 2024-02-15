@@ -1,1 +1,2 @@
-VOCE PRECISA BAIXAR ESSA MERDA pip install yowsup2
+py: VOCE PRECISA BAIXAR ESSA MERDA pip install yowsup2
+js: VOCE PRECISA BAIXAR ESSA MERDA npm install request

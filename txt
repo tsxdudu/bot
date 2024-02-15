@@ -1,0 +1,1 @@
+VOCE PRECISA BAIXAR ESSA MERDA pip install yowsup2

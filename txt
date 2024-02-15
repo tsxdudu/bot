@@ -1,2 +1,2 @@
 # py: VOCE PRECISA BAIXAR ESSA MERDA pip install yowsup2
-# js: VOCE PRECISA BAIXAR ESSA MERDA npm install request
+# js: VOCE PRECISA BAIXAR ESSA MERDA npm install request ou bot2:npm install whatsapp-web.js
